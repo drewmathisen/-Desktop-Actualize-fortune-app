@@ -1,1 +1,4 @@
-GET http://localhost:3001
+# GET http://localhost:3001/your_fortune.json
+
+GET http://localhost:3001/lotto_number.json
+
